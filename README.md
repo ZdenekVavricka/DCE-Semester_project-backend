@@ -1,7 +1,7 @@
 # DCE-Semester project-Backend
 Simple Python Web Server
 
-It is a part of bigger semester work: [dce-semestralka_1](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
+It is a part of bigger semester work: [DCE-Semester project](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
 
 ## Function
 This web server returns a web page containing the server's Hostname.
