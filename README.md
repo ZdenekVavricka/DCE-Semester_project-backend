@@ -1,4 +1,4 @@
-# DCE-Semestralka_1-Backend
+# DCE-Semester project-Backend
 Simple Python Web Server
 
 It is a part of bigger semester work: [dce-semestralka_1](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
